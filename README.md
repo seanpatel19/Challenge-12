@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 1e4bd6270e46bb12be136724d229b816d65d3364
 # Challenge-13
 
 ## Venture Funding with Deep Learning
@@ -58,7 +54,7 @@ Sklearn
 Before running the application first install the following dependencies.
 See the associated Screenshot for what to Install 
 
-![imports]()
+![imports](https://github.com/seanpatel19/Challenge-13/blob/74b2e77213ce6b0059e8969e7c92c9712360d38a/Images/installs.jpg)
 
 
 
@@ -71,12 +67,12 @@ Please see the following images of the code
 
 This is the code for compiling the model
 
-![target balance](https://github.com/seanpatel19/Challenge-12-/blob/64e5393b5c544ae0cc9c5bcd73c135e6e48ca12e/Images/target%20balance.jpg)
+![target balance](https://github.com/seanpatel19/Challenge-13/blob/74b2e77213ce6b0059e8969e7c92c9712360d38a/Images/nn%20code%20.jpg)
 
 
 
 The results of the 3 models as it can be seen this is not a very successful model
-![target balance](https://github.com/seanpatel19/Challenge-12-/blob/64e5393b5c544ae0cc9c5bcd73c135e6e48ca12e/Images/target%20balance.jpg)
+![target balance](https://github.com/seanpatel19/Challenge-13/blob/74b2e77213ce6b0059e8969e7c92c9712360d38a/Images/model%20results.jpg)
 
 
 
