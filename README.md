@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1e4bd6270e46bb12be136724d229b816d65d3364
 # Challenge-13
 
 ## Venture Funding with Deep Learning
